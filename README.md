@@ -6,6 +6,6 @@
 
 -💞️ I’m looking to collaborate on Solidity, Web3Js, NodeJs, ReactJs, Angular.
 
--📫 How to reach me BY Email fenilborad789@gmail.com
+-📫 Reach Me By Email fenilborad789@gmail.com
 
 
